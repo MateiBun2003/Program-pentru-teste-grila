@@ -1,0 +1,70 @@
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.csproj.AssemblyReference.cache
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila.Form1.resources
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila.Form2.resources
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila.Form3.resources
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila1.Properties.Resources.resources
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.csproj.GenerateResource.cache
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.csproj.CoreCompileInputs.cache
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Program pentru teste grila1.exe.config
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Program pentru teste grila1.exe
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Program pentru teste grila1.pdb
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.exe
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.pdb
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Amsterdam.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Brasov.jpeg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Bucuresti.jpeg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Cristofar Columb.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Danemarca .jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Elvetia .jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Franta.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Germania .jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Harta Italiei.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Luxemburg.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Mircea cel Batran.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Mocano.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Spania .jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Input.txt
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\razboi-100-ani.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\maxresdefault.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Primul-razboi-mondial.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\State.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Munte Arabat.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Zidul Berlinului.jpg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Egipt.jpeg
+C:\Users\Matei\source\repos\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Ecuador.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Amsterdam.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Brasov.jpeg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Bucuresti.jpeg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Cristofar Columb.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Danemarca .jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Ecuador.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Egipt.jpeg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Elvetia .jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Franta.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Germania .jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Harta Italiei.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Luxemburg.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\maxresdefault.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Mircea cel Batran.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Mocano.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Munte Arabat.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Primul-razboi-mondial.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\razboi-100-ani.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Spania .jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\State.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Zidul Berlinului.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Input.txt
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Program pentru teste grila1.exe.config
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Program pentru teste grila1.exe
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Program pentru teste grila1.pdb
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.csproj.AssemblyReference.cache
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila.Form1.resources
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila.Form2.resources
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila.Form3.resources
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program_pentru_teste_grila1.Properties.Resources.resources
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.csproj.GenerateResource.cache
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.csproj.CoreCompileInputs.cache
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.exe
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\obj\Debug\Program pentru teste grila1.pdb
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Volga.jpg
+C:\Users\Matei\OneDrive - Lucian Blaga University of Sibiu\Desktop\Program pentru teste grila1\Program pentru teste grila1\bin\Debug\Images\Canada.jpg

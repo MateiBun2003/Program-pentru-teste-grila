@@ -1,0 +1,138 @@
+﻿Test: 1
+
+Question: Care este capitala Romaniei?
+Image: Images\Bucuresti.jpeg
+Answer: T Bucuresti
+Answer: F Praga
+
+Question: Care este capitala Frantei?
+Image:Images\Franta.jpg
+Answer: T Paris
+Answer: F Bucuresti
+
+Question: Care este capitala Spaniei?
+Image:Images\Spania .jpg
+Answer: F Praga
+Answer: T Madrid
+
+Test: 2
+
+Question: A carei tari este harta aceasta?
+Image: Images\Harta Italiei.jpg
+Answer: T Italiei
+Answer: Franta
+
+Question: Care este capitala Danemarcei?
+Image:Images\Danemarca .jpg
+Answer: T Copenhaga
+Answer: F Budapesta
+
+Question: Ce oras din Romania este acesta din imagine?
+Image: Images\Brasov.jpeg
+Answer: T Brasov
+Answer: F Hunedoara
+
+Test: 3
+
+Question: Cat costa o noapte de cazare in Monaco?
+Image: Images\Mocano.jpg
+Answer: F 200 euro
+Answer: T 350 euro
+Answer: F 600 euro
+
+Question: Ce oras este in iamginea urmatoare?
+Image: Images\Amsterdam.jpg
+Answer: T Amsterdam
+Answer: F Austria
+
+Question: Ce oras este in iamginea urmatoare?
+Image: Images\Luxemburg.jpg
+Answer: T Luxrmburg
+Answer: F Germania
+
+Test: 4
+
+Question: Ce domnitor este in imaginea urmatoare ?
+Image:Images\Mircea cel Batran.jpg
+Answer: T Mircea Batran
+Answer: F Vlad Tepes
+
+Question: În ce an a fost descoperită America de către Cristofor Columb?
+Image:C:Images\Cristofar Columb.jpg
+Answer: F 1966
+Answer: F 1879
+Answer: T 1492
+Answer: F 1685
+
+Question: Cât timp a durat Războiul de 100 de ani?
+Image: Images\razboi-100-ani.jpg
+Answer: F 98 ani
+Answer: F 100 ani
+Answer: T 116 ani
+Answer: F 130 ani
+
+Test: 5
+
+Question: În ce an a început Primul Război Mondial?
+Image: Images\Primul-razboi-mondial.jpg
+Answer: T 1914
+Answer: F 1918
+Answer: F 1910
+Answer: F 1869
+
+Question: În ce an a fost fondată Organizația Națiunilor Unite? 
+Image: Images\maxresdefault.jpg
+Answer: F 1956
+Answer: T 1945
+Answer: F 2000
+Answer: F 1938
+s
+Question: Câte state are Statele Unite ale Americii? 
+Image:Images\State.jpg
+Answer: T 50 de state
+Answer: F 45 de state
+Answer: F 47 de state
+
+Test: 6
+Question: În ce țară se află muntele Ararat? 
+Image:Images\Munte Arabat.jpg
+Answer: F Germania
+Answer: T Turcia
+Answer: F Franta
+Answer: F Italia
+
+Question: În ce an a căzut Zidului Berlinului? 
+Image: Images\Zidul Berlinului.jpg
+Answer: T 1989
+Answer: F 2000
+Answer: F 1957
+Answer: F 1986
+
+Question: Ce râu important traversează Egipt?
+Image:Images\Egipt.jpeg
+Answer: F Amazon
+Answer: T Nilul
+Answer: F Volga
+Answer: F Bega
+
+Test: 7
+Question: Spune doua țări prin care trece Ecuatorul?
+Image: Images\Ecuador.jpg
+Answer: F Bulgaria 
+Answer: T Brazilia
+Answer: F China
+Answer: T Kenya
+
+Question: Ce fluviu este cunoscut ca „fiul mare al Rusiei”? 
+Image: Images\Volga.jpg
+Answer: T Volga
+Answer: F Bega
+Answer: F Amazon
+Answer: F Nilul
+
+Question: Cu ce state se învecinează Statele Unite ale Americii? 
+Image: Images\Canada.jpg
+Answer: F California
+Answer: T Mexic
+Answer: T Canada
+Answer: F Alaska
